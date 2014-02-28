@@ -33,8 +33,6 @@ namespace WindowsFormsApplication1
             checkBox5.Checked = false;
             checkBox6.Checked = false;
 
-            richTextBox1.Clear();
-
             radioButton1.Checked = false;
             radioButton2.Checked = false;
         }
